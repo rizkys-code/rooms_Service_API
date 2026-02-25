@@ -1,6 +1,7 @@
 {
   "name": "rooms_service",
   "version": "1.0.0",
+  "type": "module",
   "description": "service_Rooms",
   "main": "index.js",
   "scripts": {
